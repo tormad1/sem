@@ -5,4 +5,4 @@ test
 [![LICENSE](https://img.shields.io/github/license/tormad1/sem.svg?style=flat-square)](https://github.com/tormad1/sem/main/LICENSE)
 
 # Software Engineering Methods
-![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/<username>/<repository>/<action file name>.yml?branch=<branch>)
+![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/tormad1/sem/main.yml?branch=main)
